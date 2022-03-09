@@ -1,0 +1,13 @@
+id,bar,enabled,order,label,startAngle,bufferAngle,sweepAngle,highRefresh,color1,color2,triggerParameter,triggerValue,triggerType,breatheType,breatheInterval,breatheColor
+1,volumePercentDecibels,1,1,volumeLevelDecibels,180,30,60,1,,,,,,,,
+2,volumePeakCapped,1,1,volumeLevelDecibels,180,30,60,1,,#F7C40C,,,,,,
+10,clockHourPercent,1,5,clockHour,180,30,60,0,,,,,,,,
+20,clockMinutePercent,1,4,clockMinute,180,30,60,0,,,,,,,,
+30,clockSecondPrecisePercent,1,3,clockSecond,180,30,60,1,,,,,,,,
+50,cpuPercent,1,7,cpuFreq,180,30,60,0,,,,,,,,
+51,cpuPercent,1,7,cpuFreq,180,30,60,0,,,cpuPercent,0.9,>=,smooth,1000,#FF0000
+60,ramPercent,1,8,ramUsed,180,30,60,0,,,,,,,,
+61,ramPercent,1,8,ramUsed,180,30,60,0,,,ramPercent,0.9,>=,smooth,1000,#FF0000
+70,drivePercent,1,9,drivePercent100,180,30,60,0,,,,,,,,
+71,drivePercent,1,9,drivePercent100,180,30,60,0,,,drivePercent,0.9,>=,smooth,1000,#FF0000
+80,netReceive,1,10,netReceiveMbps,180,30,60,0,,,,,,,,

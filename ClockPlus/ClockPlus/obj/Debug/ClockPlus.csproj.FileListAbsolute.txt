@@ -1,0 +1,10 @@
+C:\Users\zekit\Documents\GitHub\ClockPlus\ClockPlus\ClockPlus\obj\Debug\ClockPlus.csproj.AssemblyReference.cache
+C:\Users\zekit\Documents\GitHub\ClockPlus\ClockPlus\ClockPlus\obj\Debug\ClockPlus.Form1.resources
+C:\Users\zekit\Documents\GitHub\ClockPlus\ClockPlus\ClockPlus\obj\Debug\ClockPlus.Properties.Resources.resources
+C:\Users\zekit\Documents\GitHub\ClockPlus\ClockPlus\ClockPlus\obj\Debug\ClockPlus.csproj.GenerateResource.cache
+C:\Users\zekit\Documents\GitHub\ClockPlus\ClockPlus\ClockPlus\obj\Debug\ClockPlus.csproj.CoreCompileInputs.cache
+C:\Users\zekit\Documents\GitHub\ClockPlus\ClockPlus\ClockPlus\bin\Debug\ClockPlus.exe.config
+C:\Users\zekit\Documents\GitHub\ClockPlus\ClockPlus\ClockPlus\bin\Debug\ClockPlus.exe
+C:\Users\zekit\Documents\GitHub\ClockPlus\ClockPlus\ClockPlus\bin\Debug\ClockPlus.pdb
+C:\Users\zekit\Documents\GitHub\ClockPlus\ClockPlus\ClockPlus\obj\Debug\ClockPlus.exe
+C:\Users\zekit\Documents\GitHub\ClockPlus\ClockPlus\ClockPlus\obj\Debug\ClockPlus.pdb

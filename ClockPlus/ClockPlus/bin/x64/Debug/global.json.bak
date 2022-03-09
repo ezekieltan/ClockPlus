@@ -1,0 +1,11 @@
+{
+  "size": 550,
+  "numberOfSlots": 12,
+  "lowRefreshRate": 2,
+  "locationX": 2137,
+  "locationY": 1096,
+  "locationX2": 1500,
+  "locationY2": 736,
+  "defaultColorMaster1": "#F70C5D",
+  "defaultColorMaster2": "#720CED"
+}
