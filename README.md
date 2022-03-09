@@ -8,7 +8,7 @@ Desktop widget for displaying time as well as vital computer statistics
 - Time (hour, minute, second)
 - Date (month, day, day of week)
 - Volume (percent, dB)
-- Battery (percent, charging)
+- Battery (percent, charging (boolean))
 - CPU (clock speed, clock speed limit, percent)
 - RAM (total, used, percent)
 - Drive (read, write, percent)
